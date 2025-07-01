@@ -12,7 +12,7 @@
 - 🎓 I’m a student of **Software Engineering** at  
   **Shahjalal University of Science and Technology (SUST)**, Bangladesh  
 - 💻 I love building web projects and exploring new technologies  
-- 🌱 Currently learning **HTML, CSS, JavaScript, C++, Git, and React**
+- 🌱 Currently learning **HTML, CSS, C, C++, Java**
 - 🚀 Future goal: Become a **Full-Stack Web Developer**
 
 ---
@@ -20,7 +20,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,9 +43,9 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: **[your-email@example.com]**
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🌐 Portfolio: [your-portfolio-link]
+- 📧 Email: **mdapurayhan1729@gmail.com**
+- 🌐 Facebook: [facebook.com/apu.rayhan.33234](https://www.facebook.com/apu.rayhan.33234)
+- 💬 Messenger: [m.me/apu.rayhan.33234](https://m.me/apu.rayhan.33234)
 
 ---
 
