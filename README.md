@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Apu Rayhan</h1>
+<h3 align="center">Student of Software Engineering at SUST | Web Developer | Learner</h3>
 
-<!--
-**apu-22/apu-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Passionate+Web+Developer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍🎓 About Me
+
+- 🎓 I’m a student of **Software Engineering** at  
+  **Shahjalal University of Science and Technology (SUST)**, Bangladesh  
+- 💻 I love building web projects and exploring new technologies  
+- 🌱 Currently learning **HTML, CSS, JavaScript, C++, Git, and React**
+- 🚀 Future goal: Become a **Full-Stack Web Developer**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apu-22&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apu-22&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: **[your-email@example.com]**
+- 💼 LinkedIn: [your-linkedin-profile]
+- 🌐 Portfolio: [your-portfolio-link]
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
