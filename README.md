@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Apu Rayhan</h1>
+<h1 align="center">Hi 👋, I'm Md Apu Rayhan</h1>
 <h3 align="center">Student of Software Engineering at SUST | Data Structure & Algorithm | Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Passionate+Web+Developer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;SUST;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
