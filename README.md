@@ -13,7 +13,7 @@
   **Shahjalal University of Science and Technology (SUST)**, Bangladesh  
 - 💻 I love building web projects and exploring new technologies  
 - 🌱 Currently learning **HTML, CSS, C, C++, Java**
-- 🚀 Future goal: Become a **Full-Stack Web Developer**
+- 🚀 Future goal: Become a **Good-Man**
 
 ---
 
