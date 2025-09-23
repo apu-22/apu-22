@@ -32,18 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=apu-22&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-  <!-- Top Languages with more langs + cache fix -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apu-22&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: **mdapurayhan1729@gmail.com**
