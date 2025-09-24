@@ -12,7 +12,7 @@
 - 🎓 I’m a student of **Software Engineering** at  
   **Shahjalal University of Science and Technology (SUST)**, Bangladesh  
 - 💻 I love building web projects and exploring new technologies  
-- 🌱 Currently learning **JavaScript**
+- 🌱 Currently learning **Manner**
 - 🚀 Future goal: Become a **Good-Man**
 
 ---
